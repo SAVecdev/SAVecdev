@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hola, soy Wilfrido 👋
 
-<!--
-**SAVecdev/SAVecdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Software & Estudiante de Tecnologías de la Información**  
+📍 Basado en Portoviejo, Ecuador.
 
-Here are some ideas to get you started:
+Apasionado por la creación de soluciones tecnológicas robustas, desde aplicaciones móviles y sistemas web hasta automatización industrial, IoT y redes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** Kotlin, JavaScript / Node.js, Python, SQL, VBA
+* **Desarrollo Móvil:** Android Studio, Jetpack Compose
+* **Backend & Bases de Datos:** Node.js, Express, MySQL, Supabase
+* **Hardware & IoT:** ESP32, Arduino, Impresión 3D (Orca Slicer / PETG)
+* **Sistemas & Redes:** Ubuntu Linux, pfSense, Docker, Home Assistant
+
+---
+
+### 🚀 Proyectos Destacados
+
+* **RifaParaTodos** Plataformas web y sistemas POS personalizados para la gestión integral de sorteos online con soporte para impresión térmica.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" />
+</p>
